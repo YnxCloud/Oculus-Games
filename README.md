@@ -1,1 +1,2 @@
-| Attempt | | :---: | | Seconds |
+| Attempt |  | Seconds |
+| :---: || :---: || :---: |
